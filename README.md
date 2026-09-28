@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,50:16324F,100:087E8B&height=190&section=header&text=Manoj%20S&fontSize=52&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%2FML%20%7C%20Backend%20Engineering&descAlignY=62&descSize=17" alt="Manoj S — Cybersecurity, AI/ML, and Backend Engineering" />
   <br />
-  <img src="assets/manoj-profile.jpg" alt="Portrait of Manoj S" width="150" />
+  <img src="assets/manoj-profile.jpeg" alt="Portrait of Manoj S" width="150" />
 </div>
 
 <div align="center">
